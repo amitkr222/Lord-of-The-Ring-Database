@@ -29,7 +29,7 @@ For this project we explored the Lord of The Ring movie series and decided to bu
 * Primary and Foreign keys were unitlized to build relations between tables.
 
 #### <a id="sql-erd"></a>SQL ERD
-![sql erd](SQL_files/ERD.png)
+![sql erd](ERD.png)
 
 **Data Engineering:**
 
@@ -38,8 +38,8 @@ For this project we explored the Lord of The Ring movie series and decided to bu
 * Specifing data types, primary keys, foreign keys, and other constraints.
 
 #### <a id="table-schema"></a>Table Schema
-![table schema](SQL_files/schema.sql)
-![schema](SQL_files/schem.png)   
+![table schema](schema.sql)
+![schema](schem.png)   
 
 ### 3- Load:
 
